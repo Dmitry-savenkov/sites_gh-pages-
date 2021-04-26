@@ -1,2 +1,2 @@
 # sites_gh-pages-
-sites_gh-pages 
+https://dmitry-savenkov.github.io/sites_gh-pages-/kino_go/
