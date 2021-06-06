@@ -1,2 +1,3 @@
-# sites_gh-pages-
-https://dmitry-savenkov.github.io/sites_gh-pages-/kino_go/
+# in this branch you can find the source code for landing page
+
+
