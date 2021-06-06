@@ -2,6 +2,7 @@
 
 * * *
 ![alt text](screen/kinogo.png "")​
+this page was made with FlexBox.
 https://dmitry-savenkov.github.io/LandingPages/kino_go/
 * * *
 https://dmitry-savenkov.github.io/LandingPages/cv_site/
