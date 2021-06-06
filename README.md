@@ -1,4 +1,4 @@
-**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp**
+**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp, all pages Responsive and Adaptive**
 
 * * *
 ![alt text](screen/kinogo.png "Описание будет тут")​
