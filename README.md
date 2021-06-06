@@ -3,17 +3,17 @@
 * * *
 ![alt text](screen/kinogo.png "")​  
 
-this page was made with *FlexBox*.  
+this page was made with *FlexBox*. Full adaptive for devices with different extensions.  
 https://dmitry-savenkov.github.io/LandingPages/kino_go/
 * * *
 ![alt text](screen/cv.png "")​  
 
 https://dmitry-savenkov.github.io/LandingPages/cv_site/. 
-
-this page was made with *FlexBox*.  
-
+Full adaptive for devices with different extensions.  
+This page was made with *FlexBox*.  
 * * *
 ![alt text](screen/bicycle.png "")​  
- this page was made with *FlexBox*.  
-  
+
+Full adaptive for devices with different extensions.  
+This page was made with *FlexBox*.  
 https://dmitry-savenkov.github.io/LandingPages/bicycle_landing/
