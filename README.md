@@ -3,5 +3,5 @@
 * * *
 https://dmitry-savenkov.github.io/LandingPages/kino_go/
 * * *
-
+https://dmitry-savenkov.github.io/LandingPages/cv_site/
 * * *
