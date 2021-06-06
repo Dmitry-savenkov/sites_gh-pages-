@@ -1,5 +1,7 @@
-**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp, all pages Responsive and Adaptive**
-*для доступа к исходному коду вам надо перейти на ветку gh-pages*
+**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp, all pages Responsive and Adaptive**. 
+
+**to access the source code you need to go to the gh-pages branch**
+
 * * *
 ![alt text](screen/kinogo.png "")​  
 
