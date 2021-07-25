@@ -1,4 +1,4 @@
-**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp, all pages Responsive and Adaptive**. 
+**My LandingPage where i am using BEM, HTML5, SCSS/SASS, JS and Gulp, pages Responsive and Adaptive**. 
 
 **to access the source code you need to go to the gh-pages branch**
 
