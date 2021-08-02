@@ -5,13 +5,13 @@
 * * *
 ![alt text](screen/kinogo.png "")​  
 
-This page was made with *FlexBox*. Full adaptive for devices with different extensions.  
+This page was made with *FlexBox*. Full adaptive for devices with different extensions  
 https://dmitry-savenkov.github.io/LandingPages/kino_go/
 * * *
 ![alt text](screen/cv.png "")​  
 
 https://dmitry-savenkov.github.io/LandingPages/cv_site/. 
-Full adaptive for devices with different extensions.  
+Full adaptive for devices with different extensions  
 This page was made with *FlexBox*.  
 * * *
 ![alt text](screen/bicycle.png "")​  
